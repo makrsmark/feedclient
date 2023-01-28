@@ -42,7 +42,7 @@ sudo bash /usr/local/share/tar1090/uninstall.sh adsbx
 ### Update the feed client without reconfiguring
 
 ```
-curl -L -o /tmp/axupdate.sh https://raw.githubusercontent.com/makrsmark/feedclient/adsbfi/feed-update.sh
+curl -L -o /tmp/axupdate.sh https://raw.githubusercontent.com/makrsmark/feedclient/adsbfi/update.sh
 sudo bash /tmp/axupdate.sh
 ```
 
